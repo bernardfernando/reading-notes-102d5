@@ -2,12 +2,13 @@
 ### Tech Ed Full  Full Stack d5  
 
 **Document Content**   
-*Document Content*      
-_**Document Content**_    
 
 
 
-Hi may name is Bernard.  I am trying to become a web developer
+Hi may name is Bernard.  I am trying to become a web developer, My main passion are:
+- Cricket
+- Learning guitar
+- Learn  
 
 
 
