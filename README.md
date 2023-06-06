@@ -18,7 +18,7 @@ This is to practice Markup.
 Hi my name is Bernard. I currently live in a picturesque Norfolk village. I am trying to become a web developer. My main passions are:
 
 - Cricket & all sorts of sports (mainly watching - lol)
-- Learning guitar
+- Learning guitar (absolute beginner)
 - Travelling  
 ____
 **Growth mindset**  
