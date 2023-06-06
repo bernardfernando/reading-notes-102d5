@@ -16,7 +16,7 @@ Hi may name is Bernard.  I am trying to become a web developer. My main passions
 
 
 ----
-**About
+**About**  
 >Hi may name is Bernard. I am trying to become a web developer. My main passions are:
 
 Cricket & all sorts of sports
