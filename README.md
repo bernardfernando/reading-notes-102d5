@@ -1,9 +1,11 @@
 # reading-notes-102d5
 ### Tech Ed Full  Full Stack d5  
 
-**Document Content**   
+**Document Content**  
+
 - Brief Introd
 - About
+- 
 - Growth mindset
 
 Hi may name is Bernard.  I am trying to become a web developer. My main passion are:
