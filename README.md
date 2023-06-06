@@ -24,6 +24,15 @@ ____
 **Growth mindset**  
 A growth mindset is a belief that you can develop your skills and talents throught hardwork, the right strategies guidance from others.
 (Mindset is the series of beliefs people hold about themselves - their self-perception.
+- I have identified my mindset (it is definitely Growth Mindset (though I did not know about this until I join the this course). I have experienced this myself - hardwork will give results, in sports, education and any other.
+- Look at my own improvement - most are sheer hardwork.
+- Look at the success of others who have leaped from where they were.
+- I love getting feedback
+- Learn things new - I love to learn, be it a sport, language, musical instrument.  I have seen myself  how hardwork helps.
+- I did not like to make mistakes, so I would spend hours to find right answers. That is again hardwork, but still make mistakes.
+- 
+- 
+
 
 
 
