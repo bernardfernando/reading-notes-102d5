@@ -7,13 +7,13 @@
 - About
 - Growth mindset
 
-Hi may name is Bernard.  I am trying to become a web developer. My main passion are:
+**Brief introduction**  
+Hi may name is Bernard.  I am trying to become a web developer. My main passions are:
 - Cricket & all sorts of sports
 - Learning guitar
-- Travelling       
+- Travelling     
 
-----  
-Brief Infor
+
 
 ----
 **About
