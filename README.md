@@ -10,7 +10,7 @@ Hi may name is Bernard.  I am trying to become a web developer. My main passion 
 - Cricket & all sorts of sports
 - Learning guitar
 - Travelling      
-####   
+ ####   
 Brief Infor
 ####  
 **About  
