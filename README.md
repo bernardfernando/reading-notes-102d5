@@ -15,7 +15,7 @@ This is to practice Markup.
 **About**  
 >Hi may name is Bernard. I am trying to become a web developer. My main passions are:
 
-- Cricket & all sorts of sports
+- Cricket & all sorts of sports (mainly watching - lol)
 - Learning guitar
 - Travelling  
 ---- 
