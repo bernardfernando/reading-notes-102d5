@@ -13,6 +13,7 @@ This is to practice Markup.
 
 ----
 **About**  
+![Cat cat](![image](https://github.com/bernardfernando/reading-notes-102d5/assets/135609352/a3c8c666-11fc-419a-a393-b8cdf5cc7713) 
 >Hi may name is Bernard. I am trying to become a web developer. My main passions are:
 
 - Cricket & all sorts of sports (mainly watching - lol)
