@@ -36,6 +36,9 @@ _I like taking challenges, When I want to do something I persist with it (and wh
 
 [Growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)  
 
+[github](https://github.com/bernardfernando)  
+
+
 
 
 
