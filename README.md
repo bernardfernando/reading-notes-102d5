@@ -34,6 +34,8 @@ I like taking challenges, When I want to do something I persist with it (and whe
 - Learn things new - I love to learn, be it a sport, language, musical instrument.  I have seen myself  how hardwork helps.
 - I did not like to make mistakes, so I would spend hours to find right answers. That is again hardwork, but still make mistakes.
 
+![Growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)  
+
 
 
 
