@@ -43,7 +43,7 @@ _I like taking challenges, When I want to do something I persist with it (and wh
 
 [github portfolio](https://github.com/bernardfernando)  
 
-[[https://github.com/bernardfernando/reading-notes-102d5/assets/135609352/212c959f-96f4-4b68-97ed-f1972217e6aa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw3NVgXF6FMcR4oTL0kIsvOU&ust=1686178136047000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCC2qXfr_8CFQAAAAAdAAAAABAD)](https://github.com/bernardfernando)  
+[![Github](https://github.com/bernardfernando/reading-notes-102d5/assets/135609352/212c959f-96f4-4b68-97ed-f1972217e6aa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw3NVgXF6FMcR4oTL0kIsvOU&ust=1686178136047000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCC2qXfr_8CFQAAAAAdAAAAABAD])](https://github.com/bernardfernando)
 
 
 
