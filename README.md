@@ -25,7 +25,7 @@ ____
 A growth mindset is a belief that you can develop your skills and talents throught hardwork, the right strategies guidance from others.
 (Mindset is the series of beliefs people hold about themselves - their self-perception.
 
-I like taking challenges, When I want to do something I persist with it (and when I get results, bingo!), It is no pain, no gain - 100% agree, I try learning from my mistakes (arguably...lol), I admire others success and try taking on board their example (still I am in trying stage...lol)
+_I like taking challenges, When I want to do something I persist with it (and when I get results, bingo!), It is no pain, no gain - 100% agree, I try learning from my mistakes (arguably...lol), I admire others success and try taking on board their example (still I am in trying stage...lol)_  
 
 - I have identified my mindset. it has definitely been Growth Mindset. I have experienced this myself - hardwork will give results, in sports, education and any other domain.
 - Look at my own improvement - most are sheer hardwork.
