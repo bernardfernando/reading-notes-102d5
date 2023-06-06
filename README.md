@@ -13,7 +13,8 @@ This is to practice Markup.
 
 ----
 **About**  
-![Cawston](./953.jpg) 
+![Cawston](./953.jpg)  
+
 Hi may name is Bernard. I currently live in a picturesque Norfolk village. I am trying to become a web developer. My main passions are:
 
 - Cricket & all sorts of sports (mainly watching - lol)
