@@ -43,7 +43,7 @@ _I like taking challenges, When I want to do something I persist with it (and wh
 
 [github portfolio](https://github.com/bernardfernando)  
 
-[![image](https://github.com/bernardfernando/reading-notes-102d5/assets/135609352/212c959f-96f4-4b68-97ed-f1972217e6aa)](https://github.com/bernardfernando)  
+[![image](https://github.com/bernardfernando/reading-notes-102d5/assets/135609352/212c959f-96f4-4b68-97ed-f1972217e6aa)] (https://github.com/bernardfernando)  
 
 
 
