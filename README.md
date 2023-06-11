@@ -3,16 +3,7 @@
 
 **Document Content**  
 
-- Brief Introduction  
-- About
-- Growth mindset
-- Links
-
-**Brief introduction**  
-This is to practice Markup.   
-
-
-----
+- Brief Introduction
 **About**  
 ![Cawston](./953.jpg)  
 
@@ -20,7 +11,18 @@ Hi my name is Bernard. I currently live in a picturesque Norfolk village. I beli
 
 - Cricket & all sorts of sports (mainly watching - lol)
 - Learning guitar (absolute beginner)
-- Travelling  
+- Travelling    
+
+Table of Contents
+    -[Code 102 topic 1](READING-NOTES-102d5/file_1.md)
+    -[Code 102 topic 2](READING-NOTES-102d5/file_1.md)
+
+**Brief introduction**  
+This is to practice Markup.   
+
+
+----
+
 ____
 **Growth mindset**  
 A growth mindset is a belief that you can develop your skills and talents throught hardwork, the right strategies guidance from others.
