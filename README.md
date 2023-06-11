@@ -3,22 +3,34 @@
 
 **Document Content**  
 
-- Brief Introduction
+
+
+
+
+
 **About**  
 ![Cawston](./953.jpg)  
 
-Hi my name is Bernard. I currently live in a picturesque Norfolk village. I believe in growth minset - 100%. I am trying to become a web developer. My main passions are:
+Hi my name is Bernard. I currently live in a picturesque Norfolk village. I believe in growth minset - 100%. This is my first step in becoming a  web developer (a geek - lol). My main passions are:
 
 - Cricket & all sorts of sports (mainly watching - lol)
 - Learning guitar (absolute beginner)
-- Travelling    
+- Travelling  
+
+**Brief introduction** 
 
 Table of Contents
-    -[Code 102 topic 1](READING-NOTES-102d5/file_1.md)
-    -[Code 102 topic 2](READING-NOTES-102d5/file_1.md)
 
-**Brief introduction**  
-This is to practice Markup.   
+    -[Learning MarkDown](./102/file_1.md)
+    -[The coders computer](./102/file_2.md)
+    -[Revision and the Cloud](./102/file_3.md)
+    -[Structure and Webpages with HTML](./102/file_4.md)
+    -[Design webpages with CSS](./102/file_5.md)
+    -[Dynamic Webpages with JavaScrip](./102/file_6.md)
+    -[Programming with JavaScript](./102/file_7.md)
+    -[Operations & Loop](./102/file_8.md)
+
+   
 
 
 ----
