@@ -1,3 +1,4 @@
+
 **#Practice with Git**
 Try out the workflow from the in-class workshop with another repo.
 
@@ -62,3 +63,47 @@ This teaches:
 
 Submission Instructions
 Share a link to your home page in the discussion below. Check out the sites others have made!
+
+[Git Hub link]( https://github.com/bernardfernando/reading-notes-102d5/blob/main/102/file_3.md)
+
+____
+
+# Reflection and Discussion
+Below is a collection of resources of varying types and lengths which describe the topics for the lecture.
+
+Go through these resources, and create a page in your reading-notes repo that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
+
+Notes entry ideas:
+
+Blog Article (2-3 paragraphs with code sample)
+Dictionary / Flash Cards
+Notes in outline form
+Fill-in-the-blank worksheet of key concepts
+Read
+Git Intro
+Read only up through the section called “Seeing Your Remote”.
+Feel free to skim the “Getting Started” instructions, do not follow along with that section for now.
+Answer
+# What is Version Control?
+> <Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectifie>
+
+Git is a distributed version control system (DVCS): this allows multiple mirrored repositories to be created.
+
+
+What is cloning in Git? This feature allows an exact copy of an existing  repository to be done on multiple computers.
+
+## **What is the command to track and stage files?**
++ ### git add <file name>
++ ### git status 
+    this will show if the file is ready/staged to be committed.
+
++ ## What is the command to take a snapshot of your changed files?
+    git commit -a
+
++ # What is the command to send your changed files to Github?
+    git push
+
+Submission Instructions
+Share what you’ve learned by copying and pasting the full text of your new rendered web page into the ‘Reply’ below.
+Include the live URL of the new page below your pasted text. (Hint: The URL of the page should begin with YOUR GitHub username, not “github.com”)
+You are invited to check out your classmates’ replies and give positive feedback and words of encouragement.
