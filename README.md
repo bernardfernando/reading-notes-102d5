@@ -4,10 +4,6 @@
 **Document Content**  
 
 
-
-
-
-
 **About**  
 ![Cawston](./953.jpg)  
 
@@ -18,17 +14,18 @@ Hi my name is Bernard. I currently live in a picturesque Norfolk village. I beli
 - Travelling  
 
 **Brief introduction** 
+This Bootcamp Web Development course uses stacked modules. Each file below cotains course content and my notes.  Basically this can be virtually paperless - save a rain forest! 
 
 Table of Contents
 
-    -[Learning MarkDown](./102/file_1.md)
-    -[The coders computer](./102/file_2.md)
-    -[Revision and the Cloud](./102/file_3.md)
-    -[Structure and Webpages with HTML](./102/file_4.md)
-    -[Design webpages with CSS](./102/file_5.md)
-    -[Dynamic Webpages with JavaScrip](./102/file_6.md)
-    -[Programming with JavaScript](./102/file_7.md)
-    -[Operations & Loop](./102/file_8.md)
+- [Learning MarkDown](102\file_1.md)
+- [The coders computer](102\file_2.md)
+- [Revision and the Cloud](102\file_3.md)
+- [Structure and Webpages with HTML](102\file_4.md)
+- [Design webpages with CSS](102\file_5.md)
+- [Dynamic Webpages with JavaScrip](102\file_6.md)
+- [Programming with JavaScript](102\file_7.md)
+- [Operations & Loop](102\file_8.md)
 
    
 
