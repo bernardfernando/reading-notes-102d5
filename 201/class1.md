@@ -20,20 +20,40 @@ For your assignment, go through these resources, and create a markdown file titl
 + ### Read the following sections of JavaScript Basics: Start at “What is JavaScript?”, read through “Comments” section.
 
 Compose a short poem describing how HTTP sends data between computers.
-# check check 
-Describe how HTML, CSS, and JS files are “parsed” in the browser.
-How can you find images to add to a Website?
-How do you create a String vs a Number in JavaScript?
+1. # HTTP - Hyper Text Transfer Protocol
+Foundation of the WWW
+It is used to load webpages using hypertext links.
+It is an application layer protocol 
+Transfer information between devises on network
+This runs on top of other layers of the network protocol stacks.
+
+2. # Describe how HTML, CSS, and JS files are “parsed” in the browser.
++ ## _HTMLparsing involves tokenization and tree construction.  Tokens includ 'start' and 'end' tags, attribute names and values.The parser parses tokanized input into document, building up the document tree._
++ CSS
+
++ Javascript
+
+3. # How can you find images to add to a Website?
+
+4. # How do you create a String vs a Number in JavaScript?
 What is a Variable and why are they important in JavaScript?
 Introduction to HTML
+## Veariable is a 'name of a container': Based on 'scope' there are two - Global, Local.
+### Based on nature: numbers, strings, boolean, null, undefined, objects.
+
 Read the beginning of Getting Started with HTML. Start from the beginning and read through section “Anatomy of an HTML document”.
 HTML Document Structure.
 Metadata in HTML.
 
-What is an HTML attribute? Additional information provided in the tag, eg name.
-Describe the Anatomy of an HTMl element. HTML is a protocol that sits of top of other protocols - communication tool to talk to others (it has syntax, sementic and timing or sequence of operation). HTML is made of a series of hierachical elements. Most elements (HEAD, BODY) have an opening tag and a closing tag, with some content sandwich in between. 
-What is the Difference between <article> and <section> element tags?
-What Elements does a “typical” website include?
+5. # What is an HTML attribute? Additional information provided in the tag, eg name.
+
+6. # Describe the Anatomy of an HTMl element. HTML is a protocol that sits on top of other protocols - communication tool to talk to others (it has syntax, sementic and timing or sequence of operation). HTML is made of a series of hierachical elements. Most elements (HEAD, BODY) have an opening tag and a closing tag, with some content sandwich in between.
+
+7. # What is the Difference between <article> and <section> element tags?
++ ## Article element is used to wrap independent and self-contained content. eg blog post, each comment.
++ ## Section element is used to divide thematially defined pieces. CSS styling can be applied to change the visual output.
+
+What Elements does a “typical” website include? 
 How does metadata influence Search Engine Optimization?
 How is the <meta> HTML tag used when specifying metadata?
 Miscellaneous
