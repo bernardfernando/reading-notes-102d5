@@ -28,7 +28,8 @@ Describe the difference between foreground and background colors of an HTML elem
 Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
 ### Use a good foreground/text colour and a matching background to go with it.
 
-What should you consider when choosing fonts for an HTML document? Websafe fonts - Scope of the project
+What should you consider when choosing fonts for an HTML document? Websafe fonts - 
+- Scope of the project
 - Mood, formal/informal, fun etc
 - Functionality (readability of them based on where they are used.  Some good at any size and are not)
 - Versatality ( good in all forms of media)
