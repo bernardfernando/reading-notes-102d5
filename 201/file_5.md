@@ -44,5 +44,5 @@ What do font-size, font-weight, and font-style do to HTML text elements?
 - ## font-style: eg Italics etc
 
 Describe two ways you could add spacing around the characters displayed in an h1 element.
-- ## lette spacing in CSS (letter spacing, line height.)
+- ## letter spacing in CSS (letter spacing, line height.)
 If you have any questions or comments from the readings, post them in the class Slack channel!
