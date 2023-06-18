@@ -29,20 +29,20 @@ Your friend asks you to give his colorless blog website a touch up. How would yo
 ### Use a good foreground/text colour and a matching background to go with it.
 
 What should you consider when choosing fonts for an HTML document? Websafe fonts - 
-- Scope of the project
-- Mood, formal/informal, fun etc
-- Functionality (readability of them based on where they are used.  Some good at any size and are not)
-- Versatality ( good in all forms of media)
-- Message
-- Readability
-- Language
-- Style 
+- ## Scope of the project
+- ## Mood, formal/informal, fun etc
+- ## Functionality (readability of them based on where they are used.  Some good at any size and are not)
+- ## Versatality ( good in all forms of media)
+- ## Message
+- ## Readability
+- ## Language
+- ## Style 
 
 What do font-size, font-weight, and font-style do to HTML text elements?
-- Size: height of the font
-- Weight: boldness/darkness
-- font-style: eg Italics etc
+- ## Size: height of the font
+- ## Weight: boldness/darkness
+- ## font-style: eg Italics etc
 
 Describe two ways you could add spacing around the characters displayed in an h1 element.
-- lette spacing in CSS.
+- ## lette spacing in CSS (letter spacing, line height.)
 If you have any questions or comments from the readings, post them in the class Slack channel!
