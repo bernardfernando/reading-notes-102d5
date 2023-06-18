@@ -146,3 +146,68 @@ What was the easiest part of the assignment today?
 Anything else you’d like to share?
 How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
 © Code Fellows 202
+______
+
+
+# Readings: HTML Links, JS Functions, and Intro to CSS Layout
+Below you will find some reading material, code samples, and some additional resources that support the topic for this class and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+# Reading
+Learn HTML
+## Creating Hyperlinks
+Creating a hyperlink: 
+
+To create a basic link, we wrap text or other content inside what element?  <a>
+The href attribute contains what information? <a href = "url"> link text </a>
+# href contains the link to the place where when you click on it takes you. Link text does not have to be text. There could be an absolulte URL or a relative URL.
+
+What are some ways we can ensure links on our pages are accessible to all readers? 
+### By having meaningful text rather than click here so that those who are visually impared can get a feel of what has to be done and why.
+
+## CSS Layout: It is a CSS grid layout - two dimensional layout system for the web. It allows you lay content out in rows and columns and has many features that  make building complex layouts straight forward.
+
+CSS Layout:
+Normal Flow CSS Layout: the way the Blocks and Inline elements are displayed on a page before any changes are made to their layouts. The flow is essentially a set of things that are all working together and know about each other in your layout.  Once something is taken out of low it works independently. 
+
+Positioning
+
+What is meant by “normal flow”?
+
+# What are a few differences between block-level and inline elements?  
+## Block level - always starts from a new line and browsers automatically add some space (a margin) before and after the elements. The always take up the full wideth available (left to right). Eg <p>, <div>, <h1> to <h6> <ul>, <ol>, <dl>, <pre>, <hr/>, <blockquote>, <address>
+
+### Inline element: never start from a new line. spaces as bounded by the tags in the HTML element.
+
+___ 
+# positioning is the default for every html element.
+position property specifies the type of positioning method used for an element.
+5 different position values
+- **static**: this is positioned according to the normal flow of the page, not any specific way.
+- **relative**: positioned relative to its normal position. Setting the top, right, bottom and left. 
+- **fixes**: stays at the same place even if scrolled
+- **absolute**: relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). If an absolute positioned element has no positioned ancestors it uses the documents body and moves along with page scrolling.
+- **sticky** : this is based on users scroll position. toggles between relative and fixed.
+
+div.static {
+    position:static;
+    border: 3px solid #73AD21
+}
+
+
+## Name a few advantages to using absolute positioning on an element.help having precise positioning.(better to use float.)
+
+## What is a key difference between fixed positioning and absolute positioning? fixed related to the browser window; Positioned absolute to its first positioned parent.
+
+# Learn JS
+## Functions – Reusable Blocks of Code
+
+## Describe the difference between a function declaration and a function invocation. Declation means, the method and invocation is getting it to work.
+## What is the difference between a parameter and an argument? Values declared within the function when it is called are arguments, variables that are defined when the function is declared are known as parameters.
+
+Miscellaneous
+6 Reasons for Pair Programming
+
+Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+This definitely helped. 
