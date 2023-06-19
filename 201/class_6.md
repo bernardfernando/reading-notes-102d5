@@ -41,4 +41,5 @@ DOM allows to change contents and design on structure via js.
 Bookmark and Review
 Understanding the problem domain is the hardest part of programming
 
-What’s the difference between primitive values and object references in JavaScript?
+# What’s the difference between primitive values and object references in JavaScript? 
+One of the main differences is Objects are stored and copies by reference, primitive values, strings, numbers etc are always copies as a whole value; Ability to have 'null in Ob and not in pri.

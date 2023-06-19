@@ -27,7 +27,10 @@ Table of Contents
 - [Programming with JavaScript](102\file_7.md)
 - [Operations & Loop](102\file_8.md)
 
-   
+ - [Class 4: Readings: HTML Links, JS Functions, and Intro to CSS Layout](/201/class_4.md)
+    Class 5 Readings: Images, Color and Text - HTML, CSS](/201/Class_5.md)
+ - [ Class 5 Additional Readings](/201/Class_5_2.md)
+
 
 
 ----
