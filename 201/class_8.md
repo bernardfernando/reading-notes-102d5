@@ -16,7 +16,11 @@ CSS Layout - Flexbox
 
 Read up to “Flex-Flow Shorthand”
 
-What are some advantages of using flexbox over float?
-How does this topic connect with your long term goals?
+# What are some advantages of using flexbox over float?
+Float allows to create layouts by floating elements to the left or right, flexbox to a single axis. axis can be horizontal or verticle. Flex box is best used for distributing space for items in the same axis.
+
+# How does this topic connect with your long term goals? 
+CSS: Essential for making pages beautiful.
+
 Bookmark and Review
 Learn CSS - Layout
