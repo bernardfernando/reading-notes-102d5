@@ -26,16 +26,11 @@ Introduction To Events.
 ### How would you describe events to a non-technical friend? 
 means by which a process communicates.  eg mouse click, keypress, changed text, button click, mouse movement or any other system generated notification.
 
-## When using the addEventListener() method, what 2 arguments will you need to provide?
-### 1. Event (eg click),  or mouse down or any other HTML DOM event0
-### 2. function  that we want to call when the event occurs.
+## When using the addEventListener() method, what 2 arguments will you need to provide? 
+### 1. 
+### an event (eg click or button press) and a function.
+Describe the event object. Why is the target within the event object useful?
 
-## Describe the event object. Why is the target within the event object useful?
-### Event object represents and event within the browser. it provides information and methods related to the event, allowing interaction with and manupulates the event as required. When an event is triggered (eg click ) an Event Object is created and passed to event handlers or listeners.
-
-It allows identification of the special elements on which the event occurs:
-1. Event delegation
-2. dynamic element interaction 
 
 What is the difference between event bubbling and event capturing?
 Bookmark and Review
