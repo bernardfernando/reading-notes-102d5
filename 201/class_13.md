@@ -26,3 +26,7 @@ Read [good article to  read ](https://html.spec.whatwg.org/multipage/webstorage.
 Bookmark/Skim
 [“The Past, Present, and Future of Local Storage for Web Applications”](http://diveinto.html5doctor.com/storage.html)
 
+[from sam](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+[Good article for an introduction to APIs on the browser client] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+
