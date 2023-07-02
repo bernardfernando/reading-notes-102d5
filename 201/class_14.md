@@ -74,3 +74,6 @@ Very interesting learning code
 [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
 
 [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
+
+Read and practice
+CSS tranistions and animations
