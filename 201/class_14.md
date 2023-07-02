@@ -65,8 +65,12 @@ In the example below the box will change its background color over the course of
 ### This has an unseparable connection with webpages in making the static ( sometime 'boaring' or monotonous) web pages to be alive - make them react/response to a user's action or stay active (dynamic). Using these two areas in webpages is very useful. User engaging in some way is better than none.
 
 Bookmark/Skim
-Pure CSS Bounce Animation
 
-6 Buttons animated
+[Animation & transition](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 
-CSS3 Animations: Keyframes
+[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)
+Very interesting learning code
+
+[6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
+
+[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
