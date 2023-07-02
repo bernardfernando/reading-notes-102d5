@@ -1,20 +1,20 @@
 # reading-notes-102d5
-### Tech Ed Full  Full Stack d5  
 
-**Document Content**  
+### Tech Ed Full Full Stack d5
 
+**Document Content**
 
 **About**  
-![Cawston](./953.jpg)  
+![Cawston](./953.jpg)
 
-Hi my name is Bernard. I currently live in a picturesque Norfolk village. I believe in growth minset - 100%. This is my first step in becoming a  web developer (a geek - lol). My main passions are:
+Hi my name is Bernard. I currently live in a picturesque Norfolk village. I believe in growth minset - 100%. This is my first step in becoming a web developer (a geek - lol). My main passions are:
 
 - Cricket & all sorts of sports (mainly watching - lol)
 - Learning guitar (absolute beginner)
-- Travelling  
+- Travelling
 
-**Brief introduction** 
-This Bootcamp Web Development course uses stacked modules. Each file below cotains course content and my notes.  Basically this can be virtually paperless - save a rain forest! 
+**Brief introduction**
+This Bootcamp Web Development course uses stacked modules. Each file below cotains course content and my notes. Basically this can be virtually paperless - save a rain forest!
 
 Table of Contents
 
@@ -27,48 +27,33 @@ Table of Contents
 - [Programming with JavaScript](102\file_7.md)
 - [Operations & Loop](102\file_8.md)
 
- - [Class 4: Readings: HTML Links, JS Functions, and Intro to CSS Layout](/201/class_4.md)
-    Class 5 Readings: Images, Color and Text - HTML, CSS](/201/Class_5.md)
- - [ Class 5 Additional Readings](/201/Class_5_2.md)
+- [Class 4: Readings: HTML Links, JS Functions, and Intro to CSS Layout](/201/class_4.md)
+  Class 5 Readings: Images, Color and Text - HTML, CSS](/201/Class_5.md)
+- [ Class 5 Additional Readings](/201/Class_5_2.md) -[Class 14 CSS Transitions and CSS Animations](/201/class_14.md)
 
+- [Class 14 additional page](/201/class_14_additional%20page)
 
+---
 
-----
+---
 
-____
 **Growth mindset**  
 A growth mindset is a belief that you can develop your skills and talents throught hardwork, the right strategies guidance from others.
 (Mindset is the series of beliefs people hold about themselves - their self-perception.
 
-_I like taking challenges, When I want to do something I persist with it (and when I get results, bingo!), It is no pain, no gain - 100% agree, I try learning from my mistakes (arguably...lol), I admire others success and try taking on board their example (still I am in trying stage...lol)_  
+_I like taking challenges, When I want to do something I persist with it (and when I get results, bingo!), It is no pain, no gain - 100% agree, I try learning from my mistakes (arguably...lol), I admire others success and try taking on board their example (still I am in trying stage...lol)_
 
 - I have identified my mindset. it has definitely been Growth Mindset. I have experienced this myself - hardwork will give results, in sports, education and any other domain.
 - Look at my own improvement - most are sheer hardwork.
 - Look at the success of others who have leaped up from where they were.
 - I love getting feedback.
-- Learn things new - I love to learn, be it a sport, language, musical instrument.  I have seen myself  how hardwork helps.
+- Learn things new - I love to learn, be it a sport, language, musical instrument. I have seen myself how hardwork helps.
 - I did not like to make mistakes, so I would spend hours to find right answers. That is again hardwork, but still make mistakes.
 
-[Growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)  
+[Growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
 
-----
+---
 
-**Links**  
+**Links**
 
-[github portfolio](https://github.com/bernardfernando)  
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[github portfolio](https://github.com/bernardfernando)
